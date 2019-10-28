@@ -12,6 +12,6 @@ This example is designed for the module: "Fundamenten van Mens-machine interacti
 
 Be sure that you have the following libraries: 
 
-* surprise library (http://surpriselib.com/#installation)
-* sklearnlibrary (https://scikit-learn.org/stable/install.html)
-* pandas library (https://pypi.org/project/pandas)
+* surprise (http://surpriselib.com/#installation)
+* sklearn (https://scikit-learn.org/stable/install.html)
+* pandas (https://pypi.org/project/pandas)
