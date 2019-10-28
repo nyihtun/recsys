@@ -1,10 +1,11 @@
 # Building Recommender Engines
 
-This example is designed for the module: "Fundamenten van Mens-machine interactie" 
+This example is designed for the module: "Fundamenten van Mens-machine interactie".
 
 ## Getting the Dataset
 
-Download the latest MovieLens dataset from https://grouplens.org/datasets/movielens/latest and extract the contents into the **/data** folder.
+* Download the latest MovieLens dataset from https://grouplens.org/datasets/movielens/latest
+* Extract the contents into the **/data** folder
 
 
 ### Prerequisites
